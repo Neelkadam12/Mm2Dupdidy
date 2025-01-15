@@ -1,12 +1,12 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "[WINTER UPDATE❄️] MM2 DUPER", HidePremium = false, IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "⭕GROXY MM2 DUPER", HidePremium = false, IntroEnabled = false})
 
 local VisualMultiplier = 2
 local SpecificItem = ""
 
 -- New Tab for Specific Item Multiplier
 local SpecificItemTab = Window:MakeTab({
-    Name = "Specific Item Dupe 🎯",
+    Name = "GODLY NAME 🔪",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
