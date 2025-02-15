@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "⭕GROXY MM2 DUPER", HidePremium = false, IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "[MM2 DUPER] DEADHUB", HidePremium = false, IntroEnabled = false})
 
 local VisualMultiplier = 2
 local SpecificItem = ""
